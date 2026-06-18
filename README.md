@@ -15,5 +15,7 @@ iSuperaps integration for ERPNext
 
 2 Export the manufacturing orders / purchase orders / outsourcing orders from iSuperaps to ERPNext.
 
+(Integrate use intermediate database/Excel file as a data transfer intermediary, create all APS data/order tables and ERP purchase order/production order/subcontracting order tables in the intermediate database/Excel file, and  a orderno mapping table  between APS orders and ERP orders .)
+
 
 
